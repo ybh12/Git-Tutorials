@@ -1,0 +1,6 @@
+2021/12/25-22:00:07.429 9a60 Creating DB F:\桌面\ChromeGo\chrome-user-data\Default\IndexedDB\https_twitter.com_0.indexeddb.leveldb since it was missing.
+2021/12/25-22:00:07.757 9a60 Reusing MANIFEST F:\桌面\ChromeGo\chrome-user-data\Default\IndexedDB\https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/25-22:00:30.281 9888 Level-0 table #5: started
+2021/12/25-22:00:30.283 9888 Level-0 table #5: 860 bytes OK
+2021/12/25-22:00:30.284 9888 Delete type=0 #3
+2021/12/25-22:00:30.284 9888 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

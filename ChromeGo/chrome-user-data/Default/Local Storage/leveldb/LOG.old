@@ -1,0 +1,66 @@
+2021/12/26-11:41:00.878 7bb8 Reusing MANIFEST F:\桌面\ChromeGo\chrome-user-data\Default\Local Storage\leveldb/MANIFEST-000001
+2021/12/26-11:41:00.879 7bb8 Recovering log #15
+2021/12/26-11:41:00.881 7bb8 Reusing old log F:\桌面\ChromeGo\chrome-user-data\Default\Local Storage\leveldb/000015.log 
+2021/12/26-11:54:53.060 9c24 Level-0 table #20: started
+2021/12/26-11:54:53.063 9c24 Level-0 table #20: 32728 bytes OK
+2021/12/26-11:54:53.065 9c24 Delete type=0 #15
+2021/12/26-11:55:39.867 a768 Level-0 table #22: started
+2021/12/26-11:55:39.872 a768 Level-0 table #22: 78187 bytes OK
+2021/12/26-11:55:39.873 a768 Delete type=0 #19
+2021/12/26-12:07:07.568 aa50 Level-0 table #24: started
+2021/12/26-12:07:07.574 aa50 Level-0 table #24: 38327 bytes OK
+2021/12/26-12:07:07.577 aa50 Delete type=0 #21
+2021/12/26-13:50:38.550 9944 Level-0 table #26: started
+2021/12/26-13:50:38.555 9944 Level-0 table #26: 30852 bytes OK
+2021/12/26-13:50:38.558 9944 Delete type=0 #23
+2021/12/26-13:50:38.559 9944 Compacting 4@0 + 1@1 files
+2021/12/26-13:50:38.566 9944 Generated table #27@0: 393 keys, 143102 bytes
+2021/12/26-13:50:38.566 9944 Compacted 4@0 + 1@1 files => 143102 bytes
+2021/12/26-13:50:38.566 9944 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/26-13:50:38.567 9944 Delete type=2 #17
+2021/12/26-13:50:38.567 9944 Delete type=2 #20
+2021/12/26-13:50:38.567 9944 Delete type=2 #22
+2021/12/26-13:50:38.567 9944 Delete type=2 #24
+2021/12/26-13:50:38.568 9944 Delete type=2 #26
+2021/12/26-14:32:14.574 639c Level-0 table #29: started
+2021/12/26-14:32:14.576 639c Level-0 table #29: 17229 bytes OK
+2021/12/26-14:32:14.578 639c Delete type=0 #25
+2021/12/26-16:57:37.779 c5f4 Level-0 table #31: started
+2021/12/26-16:57:37.782 c5f4 Level-0 table #31: 18233 bytes OK
+2021/12/26-16:57:37.783 c5f4 Delete type=0 #28
+2021/12/26-19:10:30.512 c544 Level-0 table #33: started
+2021/12/26-19:10:30.515 c544 Level-0 table #33: 16230 bytes OK
+2021/12/26-19:10:30.516 c544 Delete type=0 #30
+2021/12/26-21:14:11.022 9e44 Level-0 table #35: started
+2021/12/26-21:14:11.025 9e44 Level-0 table #35: 14680 bytes OK
+2021/12/26-21:14:11.026 9e44 Delete type=0 #32
+2021/12/26-21:14:11.026 9e44 Compacting 4@0 + 1@1 files
+2021/12/26-21:14:11.031 9e44 Generated table #36@0: 430 keys, 135974 bytes
+2021/12/26-21:14:11.031 9e44 Compacted 4@0 + 1@1 files => 135974 bytes
+2021/12/26-21:14:11.031 9e44 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/26-21:14:11.032 9e44 Delete type=2 #27
+2021/12/26-21:14:11.032 9e44 Delete type=2 #29
+2021/12/26-21:14:11.032 9e44 Delete type=2 #31
+2021/12/26-21:14:11.032 9e44 Delete type=2 #33
+2021/12/26-21:14:11.032 9e44 Delete type=2 #35
+2021/12/27-11:05:51.805 e07c Level-0 table #38: started
+2021/12/27-11:05:51.811 e07c Level-0 table #38: 19537 bytes OK
+2021/12/27-11:05:51.814 e07c Delete type=0 #34
+2021/12/27-22:37:47.835 ca14 Level-0 table #40: started
+2021/12/27-22:37:47.840 ca14 Level-0 table #40: 321419 bytes OK
+2021/12/27-22:37:47.842 ca14 Delete type=0 #37
+2021/12/27-22:37:58.401 fc5c Level-0 table #42: started
+2021/12/27-22:37:58.406 fc5c Level-0 table #42: 363637 bytes OK
+2021/12/27-22:37:58.408 fc5c Delete type=0 #39
+2021/12/27-22:55:58.202 fc5c Level-0 table #44: started
+2021/12/27-22:55:58.204 fc5c Level-0 table #44: 20135 bytes OK
+2021/12/27-22:55:58.205 fc5c Delete type=0 #41
+2021/12/27-22:55:58.205 fc5c Compacting 4@0 + 1@1 files
+2021/12/27-22:55:58.217 fc5c Generated table #45@0: 532 keys, 499467 bytes
+2021/12/27-22:55:58.217 fc5c Compacted 4@0 + 1@1 files => 499467 bytes
+2021/12/27-22:55:58.217 fc5c compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/27-22:55:58.218 fc5c Delete type=2 #36
+2021/12/27-22:55:58.218 fc5c Delete type=2 #38
+2021/12/27-22:55:58.218 fc5c Delete type=2 #40
+2021/12/27-22:55:58.218 fc5c Delete type=2 #42
+2021/12/27-22:55:58.218 fc5c Delete type=2 #44

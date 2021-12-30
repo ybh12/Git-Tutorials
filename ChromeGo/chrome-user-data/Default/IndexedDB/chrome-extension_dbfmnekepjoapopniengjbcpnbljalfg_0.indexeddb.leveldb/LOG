@@ -1,0 +1,6 @@
+2021/12/26-13:49:00.980 aa30 Creating DB F:\桌面\ChromeGo\chrome-user-data\Default\IndexedDB\chrome-extension_dbfmnekepjoapopniengjbcpnbljalfg_0.indexeddb.leveldb since it was missing.
+2021/12/26-13:49:00.986 aa30 Reusing MANIFEST F:\桌面\ChromeGo\chrome-user-data\Default\IndexedDB\chrome-extension_dbfmnekepjoapopniengjbcpnbljalfg_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/26-13:49:12.647 2200 Level-0 table #5: started
+2021/12/26-13:49:12.649 2200 Level-0 table #5: 5206 bytes OK
+2021/12/26-13:49:12.650 2200 Delete type=0 #3
+2021/12/26-13:49:12.651 2200 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

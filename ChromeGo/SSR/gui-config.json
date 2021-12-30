@@ -1,0 +1,58 @@
+{
+	"configs" : [
+		{
+			"remarks" : "洛杉矶SSR",
+			"id" : "DB2EBBFF9440C39A0AE3052E5D01C797",
+			"server" : "45.66.159.27",
+			"server_port" : 23310,
+			"server_udp_port" : 0,
+			"password" : "dongtaiwang.com",
+			"method" : "none",
+			"protocol" : "auth_chain_a",
+			"protocolparam" : "",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "",
+			"remarks_base64" : "5rSb5p2J55-2U1NS",
+			"group" : "https://git.io/v9999",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : true,
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "TwTV8Z4JzRAfYMw_l2TB",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 3,
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 2,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : null,
+	"proxyPort" : 0,
+	"proxyAuthUser" : null,
+	"proxyAuthPass" : null,
+	"proxyUserAgent" : null,
+	"authUser" : null,
+	"authPass" : null,
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : true,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}

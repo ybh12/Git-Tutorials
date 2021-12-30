@@ -1,0 +1,140 @@
+2021-12-26 14:33:01.2380|INFO|Shadowsocks.Controller.I18N|Current language is: zh-CN
+2021-12-26 14:33:02.5342|WARN|Shadowsocks.Controller.ShadowsocksController|System.Exception: 端口 1080 已被占用
+   在 Shadowsocks.Controller.Listener.Start(Configuration config)
+   在 Shadowsocks.Controller.ShadowsocksController.Reload()
+2021-12-26 14:33:04.4068|INFO|Shadowsocks.Controller.UpdateChecker|Checking updates...
+2021-12-26 14:33:44.0481|WARN|Shadowsocks.Controller.UpdateChecker|System.Reflection.TargetInvocationException: 操作过程中出现异常，结果无效。  有关异常的详细信息，请查看 InnerException。 ---> System.Net.WebException: 基础连接已经关闭: 连接被意外关闭。
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   在 System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.ComponentModel.AsyncCompletedEventArgs.RaiseExceptionIfNecessary()
+   在 Shadowsocks.Controller.UpdateChecker.http_DownloadStringCompleted(Object sender, DownloadStringCompletedEventArgs e)
+2021-12-26 21:03:50.0934|INFO|Shadowsocks.Controller.I18N|Current language is: zh-CN
+2021-12-26 21:03:50.4292|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-26 21:03:53.1907|INFO|Shadowsocks.Controller.UpdateChecker|Checking updates...
+2021-12-26 21:04:08.4464|INFO|Shadowsocks.Controller.UpdateChecker|New version 4.4.0.185 found: F:\桌面\ChromeGo\SS-plugin\ss_win_temp\Shadowsocks-4.4.0.185.zip
+2021-12-26 21:06:32.6335|INFO|Shadowsocks.Controller.UpdateChecker|Checking updates...
+2021-12-26 21:06:41.2848|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-26 21:06:53.7563|INFO|Shadowsocks.Controller.UpdateChecker|New version 4.4.0.185 found: F:\桌面\ChromeGo\SS-plugin\ss_win_temp\Shadowsocks-4.4.0.185.zip
+2021-12-27 10:52:43.1239|INFO|Shadowsocks.Controller.I18N|Current language is: zh-CN
+2021-12-27 10:52:43.3056|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:49347 - PID: 44328
+2021-12-27 10:52:43.3731|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 10:52:46.1927|INFO|Shadowsocks.Controller.UpdateChecker|Checking updates...
+2021-12-27 10:52:55.4629|INFO|Shadowsocks.Controller.UpdateChecker|New version 4.4.0.185 found: F:\桌面\ChromeGo\SS-plugin\ss_win_temp\Shadowsocks-4.4.0.185.zip
+2021-12-27 11:02:53.3648|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 11:02:53.7017|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:53729 - PID: 55720
+2021-12-27 11:03:01.0436|INFO|Shadowsocks.Controller.Strategy.HighAvailabilityStrategy|HA switching to server: https://git.io/v9999 德国SS+Kcptun (89.163.157.59:20009)
+2021-12-27 11:03:01.0627|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 11:03:01.1746|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:64276 - PID: 58984
+2021-12-27 11:03:48.7661|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 11:03:52.8104|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:50583 - PID: 34508
+2021-12-27 11:04:19.7119|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 11:04:23.8148|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:59840 - PID: 59268
+2021-12-27 11:04:27.7280|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:56666 - PID: 42228
+2021-12-27 11:04:27.7461|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 11:10:20.6785|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:61729 - PID: 28500
+2021-12-27 11:10:20.6999|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 11:10:21.0356|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:51791 - PID: 56160
+2021-12-27 11:10:21.0681|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 19:01:43.5455|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:62100 - PID: 41772
+2021-12-27 19:01:43.5828|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 19:01:43.8126|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:60874 - PID: 44548
+2021-12-27 19:01:43.8370|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 19:51:32.4779|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:61815 - PID: 40992
+2021-12-27 19:51:32.4991|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 19:51:32.7275|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:61817 - PID: 45944
+2021-12-27 19:51:32.7496|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 19:55:18.0288|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:54432 - PID: 40992
+2021-12-27 19:55:18.0526|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 20:00:48.0587|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:61957 - PID: 61964
+2021-12-27 20:00:48.0803|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 20:00:48.3519|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:61959 - PID: 62316
+2021-12-27 20:00:48.3731|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 20:20:26.5409|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:59953 - PID: 39704
+2021-12-27 20:20:26.5649|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 20:20:26.7980|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:49669 - PID: 61420
+2021-12-27 20:20:26.8196|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 20:20:43.4466|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:64825 - PID: 62176
+2021-12-27 20:20:43.4679|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 20:26:14.6169|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:60055 - PID: 60276
+2021-12-27 20:26:14.6443|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 20:26:15.0080|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:59441 - PID: 39704
+2021-12-27 20:26:15.0375|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 21:40:50.3917|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:61774 - PID: 42448
+2021-12-27 21:40:50.4196|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 21:40:50.6410|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:56887 - PID: 43888
+2021-12-27 21:40:50.6614|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 21:41:15.6150|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:53202 - PID: 47368
+2021-12-27 21:41:15.6418|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 23:40:04.4554|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:57116 - PID: 63668
+2021-12-27 23:40:04.4844|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 23:40:04.8641|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:55086 - PID: 62352
+2021-12-27 23:40:04.8875|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-27 23:40:28.9963|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:58240 - PID: 60696
+2021-12-27 23:40:29.0260|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-28 12:32:49.0708|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:59445 - PID: 65672
+2021-12-28 12:32:49.1009|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-28 12:32:49.4183|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:59447 - PID: 70692
+2021-12-28 12:32:49.4542|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-28 12:34:50.5870|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-28 12:34:50.6989|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:51899 - PID: 54740
+2021-12-28 13:34:42.1598|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-28 13:34:42.3969|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:60471 - PID: 36852
+2021-12-28 13:36:29.8288|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-28 13:36:30.1400|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-28 13:36:38.8723|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:64772 - PID: 61692
+2021-12-28 13:38:17.3072|WARN|Shadowsocks.Controller.PortForwarder+Handler|System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+2021-12-28 13:38:17.3072|WARN|Shadowsocks.Controller.PortForwarder+Handler|System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+2021-12-28 13:38:17.3272|WARN|Shadowsocks.Controller.PortForwarder+Handler|System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+2021-12-28 13:38:17.3072|WARN|Shadowsocks.Controller.PortForwarder+Handler|System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+2021-12-28 13:38:17.3072|WARN|Shadowsocks.Controller.PortForwarder+Handler|System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+2021-12-28 13:38:17.9035|WARN|Shadowsocks.Controller.PortForwarder+Handler|System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.PortForwarder.Handler.ConnectCallback(IAsyncResult ar)
+2021-12-28 13:39:10.1306|INFO|Shadowsocks.Controller.I18N|Current language is: zh-CN
+2021-12-28 13:39:11.6110|INFO|Shadowsocks.Controller.Strategy.HighAvailabilityStrategy|HA switching to server: https://git.io/v9999 德国SS+Kcptun (89.163.157.59:20009)
+2021-12-28 13:39:11.9366|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-28 13:39:12.1124|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:65190 - PID: 16032
+2021-12-28 13:39:13.6061|INFO|Shadowsocks.Controller.UpdateChecker|Checking updates...
+2021-12-28 13:39:26.3345|INFO|Shadowsocks.Controller.UpdateChecker|New version 4.4.0.185 found: F:\桌面\ChromeGo\SS-plugin\ss_win_temp\Shadowsocks-4.4.0.185.zip
+2021-12-28 13:41:31.6574|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-28 13:41:31.7696|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:63786 - PID: 4072
+2021-12-28 13:41:44.7874|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-28 13:41:45.0333|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-28 13:41:45.1586|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:53507 - PID: 8944
+2021-12-29 11:28:00.4313|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:60284 - PID: 7992
+2021-12-29 11:28:00.4554|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-29 11:28:07.3104|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:60287 - PID: 13380
+2021-12-29 11:28:07.3297|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-29 11:28:07.5423|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:60289 - PID: 2684
+2021-12-29 11:28:07.5606|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-29 11:30:29.4786|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:51717 - PID: 10672
+2021-12-29 11:30:29.5020|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-29 11:30:29.7269|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:61497 - PID: 21892
+2021-12-29 11:30:29.7498|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-29 17:24:28.2718|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:49670 - PID: 30940
+2021-12-29 17:24:28.3140|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-29 17:24:28.5338|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:49674 - PID: 26096
+2021-12-29 17:24:28.5530|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-30 09:20:07.6244|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:52267 - PID: 39024
+2021-12-30 09:20:07.7182|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-30 09:20:08.0356|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:52269 - PID: 23244
+2021-12-30 09:20:08.1097|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-30 09:20:23.7481|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:65151 - PID: 40816
+2021-12-30 09:20:23.7945|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-30 09:20:34.3245|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-30 09:21:00.8273|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-30 09:21:15.1431|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-30 09:21:15.6300|INFO|Shadowsocks.Controller.Listener|Shadowsocks started (4.1.10.0)
+2021-12-30 09:21:16.7534|INFO|Shadowsocks.Controller.ShadowsocksController|Started SIP003 plugin for 89.163.157.59:20009 on 127.0.0.1:55023 - PID: 34660

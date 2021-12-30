@@ -1,0 +1,39 @@
+2021/12/26-11:41:00.890 7bb8 Reusing MANIFEST F:\桌面\ChromeGo\chrome-user-data\Default\Session Storage/MANIFEST-000001
+2021/12/26-11:41:00.905 7bb8 Recovering log #10
+2021/12/26-11:41:00.909 7bb8 Reusing old log F:\桌面\ChromeGo\chrome-user-data\Default\Session Storage/000010.log 
+2021/12/26-11:50:03.908 a768 Level-0 table #14: started
+2021/12/26-11:50:03.911 a768 Level-0 table #14: 21402 bytes OK
+2021/12/26-11:50:03.913 a768 Delete type=0 #10
+2021/12/26-14:25:30.003 639c Level-0 table #16: started
+2021/12/26-14:25:30.008 639c Level-0 table #16: 19271 bytes OK
+2021/12/26-14:25:30.010 639c Delete type=0 #13
+2021/12/26-14:25:30.012 639c Compacting 4@0 + 1@1 files
+2021/12/26-14:25:30.017 639c Generated table #17@0: 363 keys, 20616 bytes
+2021/12/26-14:25:30.018 639c Compacted 4@0 + 1@1 files => 20616 bytes
+2021/12/26-14:25:30.019 639c compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/26-14:25:30.020 639c Delete type=2 #7
+2021/12/26-14:25:30.020 639c Delete type=2 #9
+2021/12/26-14:25:30.020 639c Delete type=2 #11
+2021/12/26-14:25:30.020 639c Delete type=2 #14
+2021/12/26-14:25:30.020 639c Delete type=2 #16
+2021/12/26-19:09:23.256 c544 Level-0 table #19: started
+2021/12/26-19:09:23.258 c544 Level-0 table #19: 33919 bytes OK
+2021/12/26-19:09:23.259 c544 Delete type=0 #15
+2021/12/26-19:10:18.256 ac68 Level-0 table #21: started
+2021/12/26-19:10:18.259 ac68 Level-0 table #21: 28795 bytes OK
+2021/12/26-19:10:18.260 ac68 Delete type=0 #18
+2021/12/26-19:11:18.257 ac68 Level-0 table #23: started
+2021/12/26-19:11:18.258 ac68 Level-0 table #23: 32457 bytes OK
+2021/12/26-19:11:18.259 ac68 Delete type=0 #20
+2021/12/27-23:44:39.842 fa88 Level-0 table #25: started
+2021/12/27-23:44:39.846 fa88 Level-0 table #25: 36703 bytes OK
+2021/12/27-23:44:39.848 fa88 Delete type=0 #22
+2021/12/27-23:44:39.848 fa88 Compacting 4@0 + 1@1 files
+2021/12/27-23:44:39.853 fa88 Generated table #26@0: 593 keys, 76338 bytes
+2021/12/27-23:44:39.853 fa88 Compacted 4@0 + 1@1 files => 76338 bytes
+2021/12/27-23:44:39.853 fa88 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/27-23:44:39.854 fa88 Delete type=2 #17
+2021/12/27-23:44:39.854 fa88 Delete type=2 #19
+2021/12/27-23:44:39.854 fa88 Delete type=2 #21
+2021/12/27-23:44:39.854 fa88 Delete type=2 #23
+2021/12/27-23:44:39.854 fa88 Delete type=2 #25
